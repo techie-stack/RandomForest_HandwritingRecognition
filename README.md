@@ -1,1 +1,1 @@
-# RandomForest_HandwritingRecognition
+# RandomForest_Handwritten Digit Recognition
